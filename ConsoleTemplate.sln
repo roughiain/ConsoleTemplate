@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTemplate", "ConsoleTemplate\ConsoleTemplate.csproj", "{7668D3A9-2925-4F90-894C-6C3D430E38FE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionFolder", "SolutionFolder", "{072EFE23-B0BC-4E58-843F-8C1B9743A657}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		Directory.Packages.props = Directory.Packages.props
+		global.json = global.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7668D3A9-2925-4F90-894C-6C3D430E38FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7668D3A9-2925-4F90-894C-6C3D430E38FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7668D3A9-2925-4F90-894C-6C3D430E38FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7668D3A9-2925-4F90-894C-6C3D430E38FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
